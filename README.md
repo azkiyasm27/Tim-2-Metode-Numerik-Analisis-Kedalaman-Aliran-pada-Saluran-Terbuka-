@@ -45,86 +45,10 @@
 | **Week P11** | - | - | - |
 
 
+## 4. DOCUMENTATION
 
-## 4. ASUMSI DAN DATA
 
-- Parameter & Asumsi:
-
-  
-
-- Sumber Data:
-
- 
+## 5. KNOWN ISSUES
 
 
 
-
-
-## 5. MODEL MATEMATIS
-
-- 
-
-
-
-
-## 6. METODE NUMERIK YANG DIGUNAKAN
-
-Proyek ini menggunakan minimal tiga metode numerik yang relevan dengan penjelasan alasannya:
-
-| No | Metode | Alasan Pemilihan & Penggunaan |
-| :-: | :--- | :--- |
-| 1 | **[Metode Pertama]** | Alasan pemilihan dan penggunaannya dalam penyelesaian masalah. |
-| 2 | **[Metode Kedua]** | Alasan pemilihan dan penggunaannya sebagai pembanding atau tahap lanjutan. |
-| 3 | **[Metode Ketiga]** | Alasan pemilihan dan penggunaannya dalam analisis sistem. |
-
-
-
-
-## 7. CARA MENJALANKAN KODE
-
-1. Pastikan Python atau Google Colab telah disiapkan.
-
-2. Lakukan clone repository menggunakan perintah:
-
-   git clone https://github.com/username/repository-name.git
-
-3. Buka folder proyek melalui Visual Studio Code.
-
-4. Jalankan program pada folder src/ atau buka file .ipynb yang tersedia.
-
-
-
-
-
-## 8. RINGKASAN HASIL & VALIDASI
-
-- Hasil Analisis:
-
-  
-
-- Validasi & Analisis Galat:
-
- 
-
-
-
-
-
-
-
-
-
-
-## 9. KNOWN ISSUES
-
-
-
-
-
-
-
-## 10. REFERENSI
-
-- Chapra, S.C. Applied Numerical Methods with MATLAB for Engineers and Scientists, 4th ed.
-
-- 
