@@ -14,7 +14,7 @@
 
 - Group Number      : Kelompok 2
 
-- Project Description : 
+- Project Description : Tugas Besar Metode Numerik (Tim 2) : menentukan kedalaman aliran normal pada saluran tebuka dari persamaan Manning yang nonlinier. Membandingkan konvergensi bisection, Newton-Raphson, dan secant, menyusun kurva debit dan kedalaman dengan interpolasi dan regresi.
 
 
 
@@ -40,15 +40,27 @@
 | Minggu | Deskripsi Pekerjaan | PIC | Status |
 | :---: | :--- | :---: | :---: |
 | **Week P8** | Penentuan geometri penampang saluran, parameter kekasaran, dan skenario debit | All members | In progress |
-| **Week P9** | - | - | - |
-| **Week P10** | - | - | - |
-| **Week P11** | - | - | - |
+| **Week P8** | Readme.md , Parameter.md, Model.py | Azkiya Satya Madyantara | In progress |
+| **Week P9 - P12** | Bisection | Jihan Ariyanti | In progress |
+| **Week P9 - P12** | Newton-Raphson | Galang Arya Ramadhan | In progress |
+| **Week P9 - P12** | Interpolasi & Regresi | Vatlysius Markus Lumban Gaol | In progress |
+| **Week P9 - P12** | Validasi dan Hasil | Kafka Azraei Widiatmoko | In progress |
 
+## 4. LATAR MASALAH
 
-## 4. DOCUMENTATION
+## 5. ASUMSI & DATA YANG DIPAKAI
 
+## 6. MODEL MATEMATIS
 
-## 5. KNOWN ISSUES
+## 7. METODE NUMERIK YANG DIGUNAKAN
+
+## 8. CARA MENJALANKAN KODE
+
+## 9. RINGKASAN HASIL
+
+## 10. DOCUMENTATION
+
+## 11. KNOWN ISSUES
 
 
 
